@@ -19,9 +19,11 @@ To open utils menu press `Escape`.
 ### Hotkeys
 #### Some hotkeys that will make your game a bit easier:
 
-Numpad0 - Auto attack (press space to deactivate)
+`Numpad0` - Auto attack (press space to deactivate)
 
-Numpad1 - Auto defend (press shift to deactivate)
+`Numpad1` - Auto defend (press shift to deactivate)
+
+`Numpad7` - Imitate AFK check appearance. You'll need to wait 1-7 secs (only when `Debug mode` enabled)
 ### Current server
 You can see your current server in the top right corner. You can toggle this in settings.
 ### Notifiers
@@ -107,6 +109,12 @@ To move your clients you need to enable `Send Keyboard Events`. Otherwise, your 
 **Note**: Enabling `Send Keyboard Events` means every key you press will be broadcasted to all connected clients.
 ### Misc
 Section that contains miscellaneous settings. Not need to be explained.
+### Debug
+Here you can enable `Debug mode`. Use it if you want to report a bug. Currently it provides information only about emulated clicks.
+
+When `Debug mode` is enabled, all clicks emulated by the script will appear on screen as red dots. To clear screen press `Clear Debug Screen`. You can also imitate AFK check appearance by pressing `Numpad7` key on your keyboard.
+
+
 # Current bugs and caveats
 Sometimes **AutoKey** might not work (as well, as other functions that used to emulate key press/mouse clicks). It may also depend on your network speed. Reload your page to fix this.
 
