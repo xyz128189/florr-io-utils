@@ -1,3 +1,8 @@
+# ATTENTION!
+Currently the script can cause BAN on your account. It's not critical as bans can expire, but due to this the script is unusable!
+
+I work on solution.
+
 # Florr.io utils
 This script is not intended to cheat or something, you may use it how you want, and I'm not responsible for any bans/problems you might receive using it.
 
